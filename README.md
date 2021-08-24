@@ -1,7 +1,7 @@
 ### Olá! Sou o Noah Albuquerque 👋
 #
 - 🔭 Aprendendo para construir uma carreira de sucesso
-- 🌱 Estudando: Redes|Git|Windows|Linux 
+- 🌱 Estudando: Front-end|Wordpress|Marketing Digital|
 - 💬 Contate-me no email: noahalbuquerque-@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
@@ -12,12 +12,12 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Noah-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/linux/linux-original.svg">
-     <img align="center" alt="Noah-Windows" height="120" width="90" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/windows8/windows8-original-wordmark.svg">
   <img align="center" alt="Noah-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg">
+    <img align="center" alt="Noah-Wordpress" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Noah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Noah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Gif-noah" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="110" height="110">
+    <img align="center" alt="Noah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg">
 </div>
 
    <div>
