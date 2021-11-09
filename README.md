@@ -1,7 +1,8 @@
 ### Olá! Sou o Noah Albuquerque 👋
 #
 - 🔭 Aprendendo para construir uma carreira de sucesso
-- 🌱 Estudando: Front-end|Wordpress|Marketing Digital|
+- 🌱 Estudando: Front-end
+- 🎯 Atuo como suporte de Marketing
 - 💬 Contate-me no email: noahalbuquerque-@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
