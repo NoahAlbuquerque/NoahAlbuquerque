@@ -2,7 +2,7 @@
 #
 - 🔭 Aprendendo para construir uma carreira de sucesso
 - 🌱 Estudando: Front-end
-- 🎯 Atuo como suporte de Marketing
+- 🎯 Atualmente trabalho com Marketing Digital.
 - 💬 Contate-me no email: noahalbuquerque-@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
