@@ -1,7 +1,7 @@
 ### Olá! Sou o Noah Albuquerque 👋
 #
-- 🔭 Aprendendo para construir uma carreira de sucesso
 - 🌱 Estudando: Front-end
+- Acesse meu Portfólio : https://bit.ly/3s0a14h
 - 💬 Contate-me no email: noahalbuquerque-@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
