@@ -1,6 +1,6 @@
 ### Olá! Sou o Noah Albuquerque 👋
 #
-- 🌱 Estudando: Front-end
+- 🌱 Estudando para me tornar um fullstack.
 - Acesse meu Portfólio : https://bit.ly/3s0a14h
 - 💬 Contate-me no email: noahalbuquerque-@hotmail.com
 - 😄 Pronomes: Ele/Dele
