@@ -3,7 +3,7 @@
 - 🌱Trabalho com back-end. Meus estudos estão direcionados para me tornar Full-Stack.
 - Acesse meu Portfólio : https://bit.ly/3s0a14h
 - 💬 Contate-me no email: noahalbuquerque-@hotmail.com
-- 😄 Pronomes: Ele/Dele
+
 
 <div>
   <a href="https://github.com/noahalbuquerque">
