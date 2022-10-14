@@ -18,7 +18,9 @@
   <img align="center" alt="Noah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Gif-noah" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="110" height="110">
     <img align="center" alt="Noah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Noah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Noah-Js" height="30" width="40" src="
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          ">
 </div>
 
    <div>
