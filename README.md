@@ -2,7 +2,8 @@
 #
 - 🌱Trabalho com back-end. Meus estudos estão direcionados para me tornar Full-Stack.
 - Acesse meu Portfólio : https://bit.ly/3s0a14h
-- 💬 Contate-me no email: noahalbuquerque-@hotmail.com
+- 💬 Contate-me no Linkedin: https://www.linkedin.com/in/noah-albuquerque-0349a3211/
+
 
 
 <div>
@@ -13,14 +14,15 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Noah-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg">
-    <img align="center" alt="Noah-Wordpress" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Noah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Noah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Gif-noah" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="110" height="110">
     <img align="center" alt="Noah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg">
+    <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 </div>
 
+##
    <div>
   <a href="https://www.instagram.com/noahalbuquerquereal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/noah-albuquerque-0349a3211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
