@@ -1,6 +1,12 @@
 ### Olá! Sou o Noah Albuquerque 👋
 #
-- 🌱Trabalho com back-end. Meus estudos estão direcionados para me tornar Full-Stack.
+- 🌱A minha paixão por tecnologia foi desenvolvida através do meu percurso acadêmico e profissional, despertando em mim um grande interesse em trabalhar como Full Stack. Inicialmente, cursei o técnico em Marketing, o qual me proporcionou uma visão estratégica, habilidades criativas, adaptabilidade e excelência em comunicação. No entanto, percebi que minha verdadeira vocação estava ligada à área de Tecnologia da Informação.
+
+Motivado por esse insight, decidi ingressar em um curso tecnólogo em Análise e Desenvolvimento de Sistemas, no qual pude aprofundar meus conhecimentos e compreender melhor esse campo fascinante. Durante essa trajetória, tive a oportunidade de adquirir experiência em diversas áreas relacionadas à tecnologia.
+
+
+•Atualmente sou desenvolvedor júnior na Indra Minsait, atuando com a sustentação de sistemas em linguagem Java, automação de testes com python, Oracle SQL, SQL Server e Git.
+
 - Acesse meu Portfólio : https://bit.ly/3s0a14h
 - 💬 Contate-me no Linkedin: https://www.linkedin.com/in/noah-albuquerque-0349a3211/
 
