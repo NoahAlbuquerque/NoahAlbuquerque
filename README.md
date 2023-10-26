@@ -1,8 +1,9 @@
 ### Olá! Sou o Noah Albuquerque 👋
 #
-Atualmente sou desenvolvedor júnior na Indra Minsait, atuando com a sustentação de sistemas em linguagem Java, automação de testes com python, Oracle SQL, SQL Server e Git.
+Atualmente sou desenvolvedor júnior na Indra Minsait, atuando com a sustentação de sistemas em linguagem Java, Oracle SQL, SQL Server e Git.
 
-- Acesse meu Portfólio : https://bit.ly/3s0a14h
+- Acesse meu Portfólio : https://bit.ly/3s0a14h (Antigo)
+- Portfólio novo em andamento...
 - 💬 Contate-me no Linkedin: https://www.linkedin.com/in/noah-albuquerque-0349a3211/
 
 
