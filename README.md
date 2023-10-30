@@ -1,7 +1,6 @@
 ### Olá! Sou o Noah Albuquerque 👋
 #
-Atualmente sou desenvolvedor júnior na Indra Minsait, atuando com a sustentação de sistemas em linguagem Java, Oracle SQL, SQL Server e Git.
-
+Atualmente sou desenvolvedor júnior na Indra / Minsait.
 - Acesse meu Portfólio : https://bit.ly/3s0a14h (Antigo)
 - Portfólio novo em andamento...
 - 💬 Contate-me no Linkedin: https://www.linkedin.com/in/noah-albuquerque-0349a3211/
@@ -22,7 +21,6 @@ Atualmente sou desenvolvedor júnior na Indra Minsait, atuando com a sustentaç�
     
   <img align="center" alt="Noah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Noah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Noah-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Gif-noah" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="110" height="110">
    
     
