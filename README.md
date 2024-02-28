@@ -1,6 +1,6 @@
 ### Olá! Sou o Noah Albuquerque 👋
 #
-Atualmente sou desenvolvedor Pleno na Indra / Minsait.
+Atualmente sou analista e desenvolvedor Pleno na Indra / Minsait.
 - Acesse meu Portfólio : https://bit.ly/3s0a14h (Antigo)
 - Portfólio novo em andamento...
 - 💬 Contate-me no Linkedin: https://www.linkedin.com/in/noah-albuquerque-0349a3211/
